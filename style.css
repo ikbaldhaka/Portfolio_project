@@ -1,0 +1,32 @@
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+}
+.Projects {
+  font-size: 17px;
+  font-family: helvetica;
+}
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+}
+
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+}
+.AboutMe {
+  font-family: helvetica;
+  font-size: 17px;
+}
+h4 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+}
+.Skills {
+  font-family: helvetica;
+  font-size: 17px;
+}
